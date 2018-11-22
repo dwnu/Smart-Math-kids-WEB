@@ -3,7 +3,6 @@
 
 ---------------------------
 App will be available soon! Wait for news here!
----------------------------
 
 
 
