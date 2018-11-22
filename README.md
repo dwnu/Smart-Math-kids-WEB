@@ -1,13 +1,13 @@
 # Smart Math
-## Mobile math app for kids!
+## Math app for kids!
 
----------------------------
-App will be available soon! Wait for news here!
+<b>App will be available soon! Wait for news here!</b>
 
-
-
-### Privacy Policy
+<br></br>
+<br></br>
+#### Privacy Policy
 Do we collect any data? [Find out here](https://dwnu.github.io/Smart-Math-Kids/)
 
-### Contact
-Having any ideas or suggestions? Please send me a message: dawidwnukowskidev@yahoo.com
+<br></br>
+#### Contact
+Having any ideas or suggestions? Please send me a message: <dawidwnukowskidev@yahoo.com>
