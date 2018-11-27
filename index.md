@@ -1,7 +1,7 @@
 # Smart Math
 ## Math app for kids!
 
-<b>App will be available soon! Wait for news here!</b>
+<b>iOS: [app store](https://dwnu.github.io/Smart-Math-kids-WEB)</b>
 
 <br>
 #### Privacy Policy
