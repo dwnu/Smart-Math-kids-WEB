@@ -1,7 +1,8 @@
 # Smart Math
 ## Math app for kids!
 
-<b>iOS: [app store](https://itunes.apple.com/us/app/smart-math-for-kids/id1444193126?l=pl&ls=1&mt=8)</b>
+<b>iOS: [app store](https://itunes.apple.com/us/app/smart-math-for-kids/id1444193126)</b>
+<br><b>Android: [google play](https://play.google.com/store/apps/details?id=app.math.vuko.mathkids)</b>
 
 <br>
 #### Privacy Policy
